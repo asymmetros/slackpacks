@@ -1,8 +1,7 @@
 # slackpacks
 
-contains slackbuilds i compiled. Those packages are not part of the official Slackwares repositories. ALso there are not part of the (semi)official slackbuilds.org or ponce's repository or or they are included there but in  a previous there.
-1) feathernotes: not included in slackbuilds.org or ponce's repository
-2) tellico: here is a newer version than the one in slackbuilds.org or ponce's repository
+contains slackbuilds i compiled. Those packages are not part of the official Slackwares repositories. ALso there are not part of the (semi)official slackbuilds.org or ponce's repository or or they are included there but in  a previous there.Fot more info, read comments in each file
+
 
 sources downwoladed directly from original projects
 
